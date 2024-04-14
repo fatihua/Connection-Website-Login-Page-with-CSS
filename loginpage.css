@@ -22,15 +22,18 @@ section{
 }
 #left-1{
     font-size: 20px;
-    margin-bottom: 7px;: ;
+    margin-bottom: 7px;
     
 }
 #left-2{
     display: table;
-    margin-right: 10%;
-    /* border: 2px solid red; */
     vertical-align: middle;
-    font-size: 28px;
+    font-size: 30px;
+    /* border: 2px solid red; */
+    width: 450px;
+}
+#right{
+    margin-left: 70px;
 }
 #form{
     margin-top: 120px;
